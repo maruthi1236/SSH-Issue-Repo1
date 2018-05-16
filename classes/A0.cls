@@ -1,0 +1,12 @@
+public Class A0
+{
+public Account createAccount(String name)  //method to create account
+{
+Account a001922= new Account();
+Account a0019221111= new Account();//changed
+// i am changed
+a001922.Name = name;//changed
+return a001922;
+//test na37
+}
+}
